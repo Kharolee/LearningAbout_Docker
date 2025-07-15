@@ -18,4 +18,5 @@ assets/
   js/     -> JavaScript files
   images/ -> Website images
 
+###### Goal
 I will be creating a docker image out of this
